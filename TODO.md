@@ -1,5 +1,6 @@
 # TODO
 
 -   [x] Setup repository to test tagging with git
--   [ ] Learn the basics of git tagging
+-   [x] Learn the basics of git tagging
+-   This is an edit
 
